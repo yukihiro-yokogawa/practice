@@ -1,5 +1,6 @@
 package com.example2.Form;
 
+//viewからリクエストパラメータを受け取るクラスです。
 public class Exam01Form {
 
 	//氏名
